@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="orange">#1c77ed</color>
+    <color name="notesHeading1">#120A7F</color>
+</resources>
